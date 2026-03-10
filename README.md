@@ -84,17 +84,9 @@ src/
 
 ---
 
-## 🌐 Deployment (Render)
-
-1. Push this repo to GitHub
-2. Create a new **Web Service** on [render.com](https://render.com)
-3. Set build command: `npm install && npm run build`
-4. Set start command: `npm run start:prod`
-5. Add environment variables in the Render dashboard
-6. Use a [Supabase](https://supabase.com) PostgreSQL URL for `DB_*` variables
 
 ---
 
 ## 👨‍💻 Author
 
-**Archit Yadav** — S R Integrated Circuit India
+**Archit Yadav** —
